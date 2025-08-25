@@ -2,7 +2,7 @@
 This Tools Is For DARKBOSS1BD-FB-VIDEO-DOWNLOADER-BOSS Facebook Video Download Using PHP In Termux/Linux
 
 <br><br>
-# COMMANDS:⬇
+# COMMANDS:
 ```
 pkg install php
 pkg install git
